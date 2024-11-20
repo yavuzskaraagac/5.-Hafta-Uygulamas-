@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\bin\Debug\CalisanVeDepartman.exe.config
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\bin\Debug\CalisanVeDepartman.exe
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\bin\Debug\CalisanVeDepartman.pdb
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\obj\Debug\CalisanVeDepartman.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\obj\Debug\CalisanVeDepartman.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\obj\Debug\CalisanVeDepartman.exe
+C:\Users\yavuz\Source\Repos\CalisanVeDepartman\CalisanVeDepartman\obj\Debug\CalisanVeDepartman.pdb

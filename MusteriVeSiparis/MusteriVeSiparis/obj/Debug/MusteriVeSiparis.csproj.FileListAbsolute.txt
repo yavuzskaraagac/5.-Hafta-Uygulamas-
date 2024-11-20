@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\bin\Debug\MusteriVeSiparis.exe.config
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\bin\Debug\MusteriVeSiparis.exe
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\bin\Debug\MusteriVeSiparis.pdb
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\obj\Debug\MusteriVeSiparis.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\obj\Debug\MusteriVeSiparis.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\obj\Debug\MusteriVeSiparis.exe
+C:\Users\yavuz\Source\Repos\MusteriVeSiparis\MusteriVeSiparis\obj\Debug\MusteriVeSiparis.pdb

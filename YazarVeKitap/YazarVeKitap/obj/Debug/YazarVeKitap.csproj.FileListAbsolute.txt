@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\bin\Debug\YazarVeKitap.exe.config
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\bin\Debug\YazarVeKitap.exe
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\bin\Debug\YazarVeKitap.pdb
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\obj\Debug\YazarVeKitap.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\obj\Debug\YazarVeKitap.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\obj\Debug\YazarVeKitap.exe
+C:\Users\yavuz\Source\Repos\YazarVeKitap\YazarVeKitap\obj\Debug\YazarVeKitap.pdb

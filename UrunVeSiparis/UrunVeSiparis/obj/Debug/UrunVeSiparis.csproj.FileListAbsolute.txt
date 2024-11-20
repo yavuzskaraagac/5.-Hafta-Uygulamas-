@@ -1,0 +1,7 @@
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\bin\Debug\UrunVeSiparis.exe.config
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\bin\Debug\UrunVeSiparis.exe
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\bin\Debug\UrunVeSiparis.pdb
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\obj\Debug\UrunVeSiparis.csprojAssemblyReference.cache
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\obj\Debug\UrunVeSiparis.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\obj\Debug\UrunVeSiparis.exe
+C:\Users\yavuz\Source\Repos\UrunVeSiparis\UrunVeSiparis\obj\Debug\UrunVeSiparis.pdb
