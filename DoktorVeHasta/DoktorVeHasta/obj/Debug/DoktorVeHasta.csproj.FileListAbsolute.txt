@@ -1,0 +1,2 @@
+C:\Users\yavuz\Desktop\github ntp ödevleri\DoktorVeHasta\DoktorVeHasta\obj\Debug\DoktorVeHasta.csprojAssemblyReference.cache
+C:\Users\yavuz\Desktop\github ntp ödevleri\DoktorVeHasta\DoktorVeHasta\obj\Debug\DoktorVeHasta.csproj.CoreCompileInputs.cache
