@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YazarVeKitap", "YazarVeKitap\YazarVeKitap.csproj", "{A82F3ABB-49C6-4BF8-B78E-56D69224673C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A82F3ABB-49C6-4BF8-B78E-56D69224673C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82F3ABB-49C6-4BF8-B78E-56D69224673C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82F3ABB-49C6-4BF8-B78E-56D69224673C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82F3ABB-49C6-4BF8-B78E-56D69224673C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {541C4A75-8D37-4FA2-9D69-3E25DEBAD90B}
+	EndGlobalSection
+EndGlobal
